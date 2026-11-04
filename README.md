@@ -131,7 +131,7 @@ Bluetooth scanning can be unreliable on Windows, particularly when the headphone
 
 The `scan` command is included for troubleshooting, but it may fail to discover the headphones even when they are connected and working correctly.
 
-Also, the headphones could be displayed without their name, so it the scan returns a great number of nearby devices, it's basically impossibile to know which MAC address corresponds to the headphones.
+Also, the headphones could be displayed without their name, so if the scan returns a great number of nearby devices, it's basically impossibile to know which MAC address corresponds to the headphones.
 
 **For everyday usage, always prefer `--address`.**
 
